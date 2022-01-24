@@ -16,3 +16,4 @@ Xamarin Library
 
 <img src="https://github.com/jingliancui/XamarinFormsVHBoomMenuButtonSample/blob/main/Images/wechatqrcode.jpg?raw=true"/>
 
+<img src="https://github.com/jingliancui/XamarinFormsVHBoomMenuButtonSample/blob/main/Images/clicked.gif?raw=true" width="300" height="600"/>
