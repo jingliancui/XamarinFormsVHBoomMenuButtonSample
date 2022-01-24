@@ -3,6 +3,7 @@ Sample for showing VHBoomMenuButton features on Xamarin.Forms.
 
 Tutorial:
 
+https://mp.weixin.qq.com/s/tpEO7aX4rtE95Bj3CPL7rQ
 
 QQ Group:
 
